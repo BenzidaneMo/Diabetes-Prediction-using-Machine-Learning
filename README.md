@@ -54,12 +54,6 @@ Then run the notebook:
 Detecting diabetes.ipynb
 ```
 
-Make sure the dataset is available at:
-
-```text
-sample_data/pima-data.csv
-```
-
 ## Project Structure
 
 ```text
